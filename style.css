@@ -3,7 +3,7 @@
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
     --cor-destaque: #2BDEFD;
-    --cor-texto: #11a3bd;
+    --cor-texto: #D7F9FF;
 }
 
 body{
@@ -27,7 +27,7 @@ h1{
     color: var(--cor-destaque);
 }
 
-.button{
+button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
